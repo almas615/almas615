@@ -18,7 +18,7 @@
 <a href="https://www.postman.com/"><img style="vertical-align: middle;" alt="Postman" src="./assets/postman-icon.svg" height=28></a>&ensp;
 
 ### Status
-:arrows_counterclockwise: &ensp;Commits done : <img alt="commits" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=commits&count_private=true&theme=dark">
+:arrows_counterclockwise: &ensp;Commits done : <img alt="commits" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=almas615&show=commits&count_private=true&theme=dark">
 
 :star:&ensp;Stars achieved : <img alt="stars" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=almas615&show=stars&count_private=true&theme=dark">
 
