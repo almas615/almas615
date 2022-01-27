@@ -20,10 +20,10 @@
 ### Status
 :arrows_counterclockwise: &ensp;Commits done : <img alt="commits" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=commits&count_private=true&theme=dark">
 
-:star:&ensp;Stars achieved : <img alt="stars" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=stars&count_private=true&theme=dark">
+:star:&ensp;Stars achieved : <img alt="stars" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=almas615&show=stars&count_private=true&theme=dark">
 
-:hammer_and_wrench:&ensp;PRs completed : <img alt="prs" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=prs&count_private=true&theme=dark">
+:hammer_and_wrench:&ensp;PRs completed : <img alt="prs" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=almas615&show=prs&count_private=true&theme=dark">
 
-:interrobang:&ensp;Issues found : <img alt="issues" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=issues&count_private=true&theme=dark">
+:interrobang:&ensp;Issues found : <img alt="issues" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=almas615&show=issues&count_private=true&theme=dark">
 
-:books:&ensp;Contribution : <img alt="contribs" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=madeindra&show=contribs&count_private=true&theme=dark">
+:books:&ensp;Contribution : <img alt="contribs" src="https://github-readme-stats-individuals.vercel.app/api/individual?username=almas615&show=contribs&count_private=true&theme=dark">
